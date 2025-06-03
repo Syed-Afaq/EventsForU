@@ -13,7 +13,7 @@ function Spotlight({ event, reverse = false }) {
         <p>{event.description}</p>
         <p><strong>Date:</strong> {event.date} at {event.time}</p>
         <p><strong>Location:</strong> {event.location}</p>
-        <a  className="btn btn-primary">Register</a>
+        <a href="#events" className="btn btn-primary">Register</a>
       </div>
       <div className="image col-md-6 text-center">
         <img
