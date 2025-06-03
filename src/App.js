@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import SearchBar from './components/SearchBar';
 import Spotlight from "./components/Spotlight";
 import ContactSection from "./components/ContactSection";
+import 'bootstrap/dist/js/bootstrap.bundle.min';
 
 
 
