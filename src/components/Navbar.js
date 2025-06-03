@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
       <div className="container">
-        <a className="navbar-brand fw-bold text-primary" href="#">EventsForU</a>
+        <a className="navbar-brand fw-bold text-primary" href="#home">EventsForU</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
           data-bs-target="#navbarNav" aria-controls="navbarNav"
           aria-expanded="false" aria-label="Toggle navigation">
